@@ -1,5 +1,7 @@
 # Bifrost Bounties
 
+![bifrost_polkadot](assets/bifrost_polkadot.png)
+
 These are specifications for work that helps Bifrost and Bifrost ecosystem. The Issues tab will list each of these and their labels will help you search for what you want.
 
 We are also glad to hear from your advice about helping to make Bifrost better here. Feel free to submit your nice proposal through the issues!
